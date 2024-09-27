@@ -33,3 +33,26 @@ googleAnalytics = "GTM-NP9V3HC4"
 [taxonomies]
   category = "categories"
   tag = "tags"
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  url = "/portfolio/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "linux"
+  name = "Linux"
+  url = "/tags/linux/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "project"
+  name = "Project"
+  url = "/tags/project/"
+  weight = 4
