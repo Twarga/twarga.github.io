@@ -1,0 +1,19 @@
+baseURL = 'https://twarga.github.io'
+languageCode = 'en-us'
+title = 'Twarga Blog'
+theme = "m10c"
+
+[params]
+  author = "Younes Touzani (Twarga)"
+  description = "A blog about all things Technical"
+
+  [[params.social]]
+    icon = 'github'
+    name = "Github"
+    url = "https://github.com/Twarga"
+
+  [[params.social]]
+    icon = 'twitter'
+    name = 'Twitter'
+    url = "https://x.com/Twarga_Dev"
+
