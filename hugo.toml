@@ -1,11 +1,17 @@
 baseURL = 'https://twarga.github.io'
 languageCode = 'en-us'
-title = 'Twarga Blog'
+title = 'Twarga Blog - Computer Science & Cyber Security Insights'
 theme = "m10c"
+googleAnalytics = "GTM-NP9V3HC4"
 
 [params]
   author = "Younes Touzani (Twarga)"
-  description = "A blog about all things Technical"
+  description = "Explore Computer Science, Cyber Security, DevSecOps, and programming tutorials. Follow my learning path and project documentation in tech."
+
+  [params.seo]
+    title = "Twarga Blog | CS, Cyber Security & Tech Tutorials by Younes Touzani"
+    description = "Dive into Computer Science, Cyber Security, DevSecOps, and programming insights. Join Younes Touzani (Twarga) on a learning journey through tutorials, lessons, and real-world tech projects."
+    keywords = ["Computer Science", "Cyber Security", "DevSecOps", "programming", "tech tutorials", "project documentation", "Younes Touzani", "Twarga", "CS student", "learning path", "tech blog"]
 
   [[params.social]]
     icon = 'github'
@@ -17,3 +23,13 @@ theme = "m10c"
     name = 'Twitter'
     url = "https://x.com/Twarga_Dev"
 
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
