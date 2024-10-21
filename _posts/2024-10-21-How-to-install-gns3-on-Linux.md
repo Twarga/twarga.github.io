@@ -15,6 +15,7 @@ Sure! Here’s a shorter and simpler explanation of the differences between **GN
 ## Understanding GNS3 Components
 
 Before we start the installation, let’s clarify the key components of GNS3:
+![gns3 client , server and VM ](assets/GNS3/0.png)
 
 ### 1. GNS3 Client
 The GNS3 Client is the graphical interface you use to create and manage your network simulations. It lets you drag and drop devices, configure them, and visualize your network layout. The client runs on your computer and communicates with the server to execute your commands.
