@@ -100,18 +100,16 @@ Once GNS3 is installed, you can launch it using the terminal on any Linux distri
 gns3
 ```
 On the first page of the setup, select "Run the appliances on my computer".
-
-
 ![on my configuration](assets/GNS3/8.png)
 
 
 On the next screen, confirm the local server configuration.
-
 ![local Server](assets/GNS3/9.png)
 
 Complete the setup, and you are ready to start using GNS3 on Linux.
 
 ![start gns3 on Linux](assets/GNS3/10.png)
+
 Voila! Your GNS3 installation is now complete and ready for use.
 ![Gns3 Tutorial](assets/GNS3/11.png)
 
