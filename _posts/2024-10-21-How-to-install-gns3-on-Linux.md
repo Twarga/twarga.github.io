@@ -111,6 +111,5 @@ Complete the setup, and you are ready to start using GNS3 on Linux.
 ![start gns3 on Linux](assets/GNS3/10.png)
 
 Voila! Your GNS3 installation is now complete and ready for use.
-![Gns3 Tutorial](assets/GNS3/11.png)
 
 
