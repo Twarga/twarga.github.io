@@ -7,210 +7,179 @@ tags: [100 Labs, Cybersecurity, Hands-on Learning, IT Skills, Networking, Cloud 
 
 # **100 Labs Cybersecurity Challenge**
 
-The **100 Labs Cybersecurity Challenge** is designed to provide hands-on learning experiences for individuals seeking to develop their cybersecurity skills. This challenge encompasses a variety of labs that cover essential topics in networking, operating systems, cloud computing, security tools, and DevSecOps. Each lab aims to build upon foundational knowledge while encouraging practical application and experimentation. By completing these labs, participants will gain the skills necessary to excel in the cybersecurity field, making them well-prepared for real-world scenarios.
+# Introduction
+
+I am thrilled to embark on the **100 Labs Cybersecurity Challenge**, designed to provide me with hands-on learning experiences and develop my cybersecurity skills. This challenge encompasses a variety of labs that cover essential topics in networking, operating systems, cloud computing, security tools, and DevSecOps. Each lab aims to build upon my foundational knowledge while encouraging practical application and experimentation. By completing these labs, I will gain the skills necessary to excel in the cybersecurity field, making me well-prepared for real-world scenarios.
+
+## Objectives 
+
+The primary objectives of the 100 Labs Cybersecurity Challenge for me are:
+
+1. **Hands-on Experience**: To provide me with practical experience in configuring and managing cybersecurity tools and technologies.
+2. **Skill Development**: To enhance my technical skills across various domains, including networking, cloud computing, and security.
+3. **Real-World Application**: To prepare me for challenges I may face in professional cybersecurity roles.
+4. **Project Integration**: To encourage me to integrate my learnings into comprehensive projects that demonstrate my capabilities.
+
+> This List Only include the Lab Number and Title You can Read Full Lab Scenarios In the Advance Labs Page Here : Click Here 
+
+## Pre-requirement Labs :
+
+- [x]  [Lab 0: Set up a home network with routers and switches (GNS3 or EVE-NG) + NAS Server](https://github.com/Twarga/LAB1_Home_Network)
+- [x]  [Lab 0.1: Explore Wireshark for network traffic analysis](https://github.com/Twarga/LAB-2-Wireshark-for-Network-Traffic-Analysis)
+
+## Linux Labs (20 Labs)
+
+- [ ] **Lab 1: Comprehensive Linux Environment Setup** 
+- [ ] **Lab 2: Combined DNS, DHCP, and VPN Setup for a Multi-Zone Network**
+- [ ] **Lab 3: SSH, NTP, and Firewall Configuration for Secure Remote Management**
+- [ ] **Lab 4: Multi-Layered DNS and Web Server Setup**
+- [ ] **Lab 5: NFS, Samba, and Nextcloud for Networked Storage**
+- [ ] **Lab 6: High-Availability Database Setup with MariaDB and Redis**
+- [ ] **Lab 7: Advanced Email Server Configuration (Postfix, Dovecot, and Mail Security)**
+- [ ] **Lab 8: Comprehensive PostgreSQL and Backup Management**
+- [ ] **Lab 9: Three-Tier Application Deployment with Nginx, MariaDB, and PHP in Minikube**
+- [ ] **Lab 10: Combined Proxy and Load Balancing Setup with HAProxy and Squid**
+- [ ] **Lab 11: Virtualization with KVM and oVirt for Resource Management**
+- [ ] **Lab 12: Web Application Security with Apache and Mod_Security**
+- [ ] **Lab 13: Lightweight Containerization with Podman and Docker CLI**
+- [ ] **Lab 14: Full Kubernetes Stack Deployment and Monitoring**
+- [ ] **Lab 15: Advanced OpenStack Setup for Cloud Infrastructure Management**
+- [ ] **Lab 16: Web and App Hosting with Nginx and Load Balancing in Docker**
+- [ ] **Lab 17: Multi-Tier Proxy and Caching Setup with Squid and Redis**
+- [ ] **Lab 18: Centralized Authentication and Authorization with FreeIPA and LDAP**
+- [ ] **Lab 19: Monitoring and Compliance with Nagios, SysStat, and Zabbix**
+- [ ] **Lab 20: Comprehensive Security Lab with Auditing, Firewalls, and SELinux**
+
+## Windows Server Labs (6 Labs)
+
+- [ ] **Lab 21: Windows Server and Client Installation & Configuration**
+- [ ] **Lab 22: Active Directory & Basic Network Configuration**
+- [ ] **Lab 23: File and Storage Services with Virtualization**
+- [ ] **Lab 24: Web and Database Services Deployment**
+- [ ] **Lab 25: Advanced Active Directory Configuration and Azure Integration**
+- [ ] **Lab 26: Windows Server Security & Hardening**
+
+## Networking (15 Labs)
+
+### Project  1 : Finance Network Design 
+
+- [ ] **Lab 27: Network Topology and Basic Configuration**
+- [ ] **Lab 28: VLANs and Inter-VLAN Routing**
+- [ ] **Lab 29: Dynamic IP Allocation and Secure Remote Access**
+- [ ] **Lab 30: Advanced Routing Protocols and Redundancy**
+- [ ] **Lab 31: NAT, PAT, and VPN Implementation**
+- [ ] **Lab 32: Voice over IP (VoIP) and Telephony Services**
+- [ ] **Lab 33: End-to-End Testing and Network Communication Verification**
+
+### Project  2: Secure Company Network 
+
+- [ ] **Lab 34: Secure Network Design and WLC Configuration**
+- [ ] **Lab 35: Redundant Link Aggregation and STP Configuration**
+- [ ] **Lab 36: DHCP, HSRP, and High Availability**
+- [ ] **Lab 37: Inter-VLAN Routing and Core Switch Configuration**
+- [ ] **Lab 38: Routing and Cisco ASA Firewall Setup**
+- [ ] **Lab 39: Testing and Final Security Measures**
+
+### Project 3 : Fortinet Setup 
+
+- [ ] **Lab 40: Fortinet Router and Switch Configuration**
+- [ ] **Lab 41: DMZ, Firewall, and Security Policies**
 
 
-## Objectives
 
-The primary objectives of the 100 Labs Cybersecurity Challenge are:
+## Azure (5 Labs)
 
-1. **Hands-on Experience**: To provide participants with practical experience in configuring and managing cybersecurity tools and technologies.
-2. **Skill Development**: To enhance participants' technical skills across various domains, including networking, cloud computing, and security.
-3. **Real-World Application**: To prepare participants for challenges they may face in professional cybersecurity roles.
-4. **Project Integration**: To encourage participants to integrate their learnings into comprehensive projects that demonstrate their capabilities.
---- 
-## Networking Labs
+### Project : Multi-Tier Web Application on Azure Kubernetes Service (5 Labs)
 
-- [ ] Lab 1: Set up a home network with routers and switches (GNS3 or EVE-NG)
-- [ ] Lab 2: Explore Wireshark for network traffic analysis
-- [ ] Lab 3: Configure basic firewall rules (pfSense)
-- [ ] Lab 4: Simulate a small business network (VirtualBox or GNS3)
-- [ ] Lab 5: Set up a VPN for secure communication between networks
-- [ ] Lab 6: **Networking Project Lab**: Integrate all networking setups into a single cohesive network environment, demonstrating connectivity and security.
+- [ ] **Lab 42: AKS Cluster Setup and Containerized Application Deployment**
+- [ ] **Lab 43: Helm for Application Management and Ingress Controller Setup**
+- [ ] **Lab 44: CI/CD Pipeline Setup for Automated Deployments**
+- [ ] **Lab 45: Horizontal Pod Autoscaling (HPA) Based on Resource Metrics**
+- [ ] **Lab 46: Application Monitoring, Logging, and Final Testing**
 
----
 
-## Linux Labs
 
-- [ ] Lab 7: Initial Ubuntu configuration, manage users, and set file permissions
-- [ ] Lab 8: Configure NTP, SSH, DNS, DHCP, and web services
-- [ ] Lab 9: Disk configuration and setting up a storage server
-- [ ] Lab 10: Set up KVM, QEMU, Docker, and Kubernetes (MicroK8s or Minikube)
-- [ ] Lab 11: Set up a directory server (OpenLDAP) and virtualization with OpenStack
-- [ ] Lab 12: Implement web services (Apache, Nginx), database (PostgreSQL, MariaDB, MongoDB)
-- [ ] Lab 13: Set up FTP, Samba, mail servers, proxy, and load balancers (Squid, HAProxy)
-- [ ] Lab 14: Implement security (SELinux, Auditd) and monitoring tools
-- [ ] Lab 15: Backup with Bacula
-- [ ] Lab 16: **Linux Project Lab**: Create a fully functional Linux-based server environment that integrates all previous setups, showcasing services and configurations in a unified manner.
+## Automation and Scripting (4 Labs)
 
----
+- [ ] ***Lab 47: Bash System Admin Panel*** 
+- [ ] ***Lab 48: PowerShell System Admin Panel*** 
+- [ ] ***Lab 49: Ansible Home Lab Template For Configuration Management and Automation***
+- [ ] ***Lab 50: Terraform for Cloud Labs Automation (IaC) - Azure***
 
-## Windows Labs
 
-- [ ] Lab 17: Initial Windows Server setup, NTP, DNS, DHCP, and Active Directory
-- [ ] Lab 18: Set up Hyper-V and containers (Docker)
-- [ ] Lab 19: Configure web services (IIS), file server, and Exchange 2019
-- [ ] Lab 20: Implement storage, system backup, and failover clustering
-- [ ] Lab 21: Set up Windows Server Admin Panel, RDP, and PowerShell automation
-- [ ] Lab 22: Active Directory in detail: users, GPOs, domains
-- [ ] Lab 23: **Windows Project Lab**: Develop a comprehensive Windows Server environment that consolidates all previous configurations, demonstrating Active Directory management, web services, and security.
 
----
+## Security Basics (20 Labs)
 
-## Cloud Labs
+### Project 1: Entry-Level HomeLab (20 Labs)
 
-- [ ] Lab 24: Create a virtual network and deploy VMs with secure configurations
-- [ ] Lab 25: Set up identity management (Azure AD) and network security groups
-- [ ] Lab 26: Implement load balancing, auto-scaling, and backups
-- [ ] Lab 27: Set up monitoring and logging tools (Azure Monitor)
-- [ ] Lab 28: Deploy serverless functions with Azure Functions
-- [ ] Lab 29: Implement basic cloud security with Azure Security Center
-- [ ] Lab 30: **Azure Project Lab**: Build a complete Azure infrastructure that integrates all previous labs, demonstrating cloud security, networking, and scalability.
+- [ ] **Lab 51: Setting Up the Homelab Network**
+- [ ] **Lab 52: Configuring Virtual Machines and Services**
+- [ ] **Lab 53: Implementing Network Security** 
+- [ ] **Lab 54: Confidentiality - Data Encryption and Secure Communication**
+- [ ] **Lab 55: Integrity - File Integrity Monitoring**
+- [ ] **Lab 56: Availability - System Redundancy and Backup**
+- [ ] **Lab 57: Setting Up IDS/IPS (Snort/Suricata)**
+- [ ] **Lab 58: Implementing SIEM (Splunk)**
+- [ ] **Lab 59: Configuring Log Collection and Analysis**
+- [ ] **Lab 60: Monitoring and Alerting Configuration**
+- [ ] **Lab 61: Honeypot Setup for Threat Detection**
+- [ ] **Lab 62: Analyzing Logs for Indicators of Compromise (IoCs)**
+- [ ] **Lab 63: Threat Intelligence Integration**
+- [ ] **Lab 64: Developing Incident Response Playbooks**
+- [ ] **Lab 65: Simulating and Responding to Security Incidents** 
+- [ ] **Lab 66: Automated Incident Response Using SOAR**
+- [ ] **Lab 67: NIST Framework Implementation (Identify)**
+- [ ] **Lab 68: NIST Framework Implementation (Protect)**
+- [ ] **Lab 69: NIST Framework Implementation (Detect)**
+- [ ] **Lab 70: NIST Framework Implementation (Respond & Recover)**
 
----
+## Vulnerability Assessment (10 Labs )
 
-## AWS Labs
+- [ ] **Lab 71: Introduction to Vulnerability Assessment**
+- [ ] **Lab 72: Setting up and Running a Vulnerability Scan (Network)**
+- [ ] **Lab 73: Running a Vulnerability Scan on Web Servers**
+- [ ] **Lab 74: Assessing and Mitigating Operating System Vulnerabilities**
+- [ ] **Lab 75: Vulnerability Scanning for Databases**
+- [ ] **Lab 76: Web Application Vulnerability Assessment with OWASP Top 10**
+- [ ] **Lab 77: Vulnerability Scanning of Cloud Infrastructure (Azure)**
+- [ ] **Lab 78: Vulnerability Assessment for Containers and Kubernetes** 
+- [ ] **Lab 79: Network Vulnerability Assessment with Nmap**
+- [ ] **Lab 80: Remediation and Reporting**
 
-- [ ] Lab 31: Launch EC2 instances and configure S3 for storage
-- [ ] Lab 32: Set up VPC, security groups, and IAM roles for permissions
-- [ ] Lab 33: Create an auto-scaling group with load balancing
-- [ ] Lab 34: Use CloudWatch for monitoring and CloudTrail for auditing
-- [ ] Lab 35: Deploy and secure a web app using AWS Lambda
-- [ ] Lab 36: **AWS Project Lab**: Create an integrated AWS environment that combines all previous labs, showcasing services, security configurations, and cloud architecture.
+## Threat Intelligence (5 Labs)
 
----
+- [ ] **Lab 81: Introduction to Threat Intelligence (TI) and Open Source Intelligence (OSINT)**
+- [ ] **Lab 82: Analyzing Threat Intelligence Feeds**
+- [ ] **Lab 83: Threat Actor Profiling and Attack Campaign Mapping**
+- [ ] **Lab 84: Indicator Enrichment and Threat Correlation**
+- [ ] **Lab 85:  Creating and Sharing Threat Intelligence Reports**
 
-## Google Cloud Labs
+## Incident Response (5 Labs)
 
-- [ ] Lab 37: Launch VMs, manage networking, and create firewall rules
-- [ ] Lab 38: Set up Google Cloud IAM and Cloud Storage
-- [ ] Lab 39: Implement load balancing and cloud functions
-- [ ] Lab 40: Use Stackdriver for monitoring and logging
-- [ ] Lab 41: Implement a basic Kubernetes cluster with Google Kubernetes Engine
-- [ ] Lab 42: **Google Cloud Project Lab**: Develop a cohesive Google Cloud project that integrates all previous labs, demonstrating effective use of cloud services, security, and monitoring.
+- [ ] **Lab 86: Introduction to Incident Response and Incident Handling**
+- [ ] **Lab 87: Detecting and Identifying Security Incidents**
+- [ ] **Lab 88: Containment and Eradication of Security Incidents**
+- [ ] **Lab 89: Incident Recovery and Lessons Learned**
+- [ ] **Lab 90: Incident Response Automation and Reporting**
 
----
+## Penetration Testing (5 Labs)
 
-## Security Labs
+- [ ] **Lab 91: Setting Up a Penetration Testing Lab**
+- [ ] **Lab 92: Information Gathering and Reconnaissance**
+- [ ] **Lab 93: Vulnerability Scanning and Exploitation**
+- [ ] **Lab 94: Web Application Penetration Testing**
+- [ ] **Lab 95: Post-Exploitation and Reporting**
 
-- [ ] Lab 43: Vulnerability scanning with OpenVAS
-- [ ] Lab 44: Configure Snort IDS
-- [ ] Lab 45: Penetration testing with Metasploit
-- [ ] Lab 46: Implement password policies, MFA, and firewall security
-- [ ] Lab 47: Secure cloud infrastructure (Azure, AWS, GCP) basics
-- [ ] Lab 48: **Security Project Lab**: Conduct a comprehensive security assessment across all systems and networks established in the previous labs, integrating tools and techniques learned.
 
----
 
-## Advanced Security Labs
+## Advance Topics
 
-- [ ] Lab 49: Vulnerability scanning with Nessus
-- [ ] Lab 50: Network scanning with Nmap and vulnerability testing
-- [ ] Lab 51: Web vulnerability testing with Burp Suite
-- [ ] Lab 52: Password cracking with John the Ripper
-- [ ] Lab 53: Set up and monitor with Splunk SIEM
-- [ ] Lab 54: Use tcpdump and analyze network traffic
-- [ ] Lab 55: Conduct malware analysis with Cuckoo Sandbox
-- [ ] Lab 56: Set up SSL/TLS encryption and DDoS protection (Cloudflare)
-- [ ] Lab 57: Harden Windows and Linux systems
-- [ ] Lab 58: Implement VPN with IPsec
-- [ ] Lab 59: Advanced auditing with Windows Event Viewer and syslog
-- [ ] Lab 60: Set up intrusion detection with Suricata
-- [ ] Lab 61: Implement SSL certificates and DLP
-- [ ] Lab 62: Use Wireshark to analyze advanced packet sniffing
-- [ ] Lab 63: Secure network communication protocols (TLS, SSH)
-- [ ] Lab 64: **Cybersecurity Tools Project Lab**: Create a project that uses all the tools and techniques learned to secure a mock environment, demonstrating vulnerability assessments and threat mitigation.
+- [ ] **Lab 96: Advanced Web Application Exploitation**
+- [ ] **Lab 97: Exploiting Active Directory (AD) and Windows Network**
+- [ ] **Lab 98: Advanced Wireless Attacks**
+- [ ] **Lab 99: Cloud Security and Penetration Testing**
+- [ ] **Lab 100: Exploiting IoT (Internet of Things) Devices**
 
----
+The **100 Labs Cybersecurity Challenge** provides me with an unparalleled opportunity to enhance my cybersecurity skills. By engaging in these hands-on labs, I can build a robust foundation in various areas of cybersecurity while gaining practical experience that employers value. Whether I’m just starting my journey or looking to deepen my expertise, this challenge is an excellent way to advance my career in the dynamic field of cybersecurity.
 
-## Azure Security Labs
-
-- [ ] Lab 65: Implement cloud SIEM with Azure Sentinel
-- [ ] Lab 66: Set up PIM (Privileged Identity Management)
-- [ ] Lab 67: Use Key Vault for secrets management
-- [ ] Lab 68: **Azure Security Project Lab**: Develop a comprehensive security solution in Azure that integrates previous labs and demonstrates advanced security practices.
-
----
-
-## AWS Security Labs
-
-- [ ] Lab 69: Threat detection with AWS GuardDuty
-- [ ] Lab 70: Configure identity and access management policies
-- [ ] Lab 71: Implement DDoS protection with AWS Shield
-- [ ] Lab 72: **AWS Security Project Lab**: Create a unified AWS security framework that brings together all security-related labs, showcasing robust configurations and threat response.
-
----
-
-## Google Cloud Security Labs
-
-- [ ] Lab 73: Secure web apps using Cloud Armor
-- [ ] Lab 74: Configure logging and monitoring with Google Stackdriver
-- [ ] Lab 75: Set up cloud threat detection tools
-- [ ] Lab 76: **Google Cloud Security Project Lab**: Build a comprehensive security architecture on Google Cloud that integrates all security labs, ensuring a secure and compliant environment.
-
----
-
-## Microsoft 365 Labs
-
-- [ ] Lab 77: Manage Microsoft 365 services (Exchange, SharePoint, Teams)
-- [ ] Lab 78: Implement Azure AD Connect and hybrid identity management
-- [ ] Lab 79: Set up Intune for mobile device management
-- [ ] Lab 80: Automate workflows with Power Automate
-- [ ] Lab 81: Set up Microsoft Defender for Endpoint
-- [ ] Lab 82: Implement Azure MFA and Conditional Access policies
-- [ ] Lab 83: Configure Microsoft Information Protection (MIP)
-- [ ] Lab 84: Set up Microsoft 365 shared mailboxes and permissions
-- [ ] Lab 85: Backup and restore data in Microsoft 365
-- [ ] Lab 86: Monitor security and compliance with M365 admin tools
-- [ ] Lab 87: **Microsoft 365 Project Lab**: Create a comprehensive Microsoft 365 environment that integrates all previous labs, demonstrating effective management and security across services.
-
----
-
-## Advanced Security and Incident Response Labs
-
-- [ ] Lab 88: Advanced SIEM configurations in Splunk
-- [ ] Lab 89: Set up SOAR for incident response automation
-- [ ] Lab 90: Conduct a tabletop exercise for incident response scenarios
-- [ ] Lab 91: Design and implement an incident response and recovery plan simulation
-- [ ] Lab 92: **Advanced Security Project Lab**: Design a security operations center (SOC) simulation to manage security incidents, integrating all skills and tools acquired.
-
-- [ ] Lab 93: Conduct a thorough pen test on a test environment
-- [ ] Lab 94: Create detailed incident reports and security documentation
-- [ ] Lab 95: Conduct a complete incident response exercise, applying all skills and techniques learned to handle a simulated security breach.
-
----
-
-## CI/CD and DevSecOps Labs
-
-- [ ] Lab 96: Set up a CI/CD pipeline using Jenkins, GitLab, or GitHub Actions
-- [ ] Lab 97: Implement security scanning in CI/CD (SAST, DAST)
-- [ ] Lab 98: Container security best practices with Docker
-- [ ] Lab 99: Secure Kubernetes deployments (RBAC, Network Policies)
-- [ ] Lab 100: Manage secrets and credentials in DevOps pipelines
-- [ ] Lab 101: Implement compliance checks in CI/CD
-- [ ] Lab 102: Use Terraform for Infrastructure as Code (IaC) and secure configurations
-- [ ] Lab 103: Monitor CI/CD pipelines for security vulnerabilities
-- [ ] Lab 104: Automate testing and quality assurance in the pipeline
-- [ ] Lab 105: **DevSecOps Project Lab**: Develop a fully integrated DevSecOps pipeline that applies security practices throughout the software development lifecycle, showcasing automation and monitoring.
-
----
-
-## Security Architecture Labs
-
-- [ ] Lab 106: Create a security architecture diagram for a complex environment
-- [ ] Lab 107: Implement security controls based on NIST, ISO, or CIS frameworks
-- [ ] Lab 108: Conduct a risk assessment and compliance audit
-- [ ] Lab 109: Design a secure network architecture for a fictional company
-- [ ] Lab 110: Integrate logging and monitoring into architecture
-- [ ] Lab 111: Create an incident response plan and communication strategy
-- [ ] Lab 112: Establish a security governance framework
-- [ ] Lab 113: Set up data protection and privacy controls (GDPR, CCPA)
-- [ ] Lab 114: Conduct a tabletop exercise for incident response
-- [ ] Lab 115: **Security Architecture Project Lab**: Design and present a complete security architecture for a hypothetical organization, integrating all compliance and security controls.
-
----
-## Conclusion
-
-The **100 Labs Cybersecurity Challenge** provides an unparalleled opportunity for individuals looking to enhance their cybersecurity skills. By engaging in these hands-on labs, participants can build a robust foundation in various areas of cybersecurity while gaining practical experience that employers value. Whether you're just starting your journey or looking to deepen your expertise, this challenge is an excellent way to advance your career in the dynamic field of cybersecurity.
-
-Join us and take your first step towards becoming a skilled cybersecurity professional!
+I’m ready to join and take my first step towards becoming a skilled cybersecurity professional with **100Labs**! 🚀
