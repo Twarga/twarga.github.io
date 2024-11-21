@@ -1,0 +1,32 @@
+# Robots.txt file for https://twarga.tech
+
+# General rule: Allow all crawlers to access the site
+User-agent: *
+Allow: /
+
+# Block access to draft and private directories (if they exist)
+Disallow: /drafts/
+Disallow: /private/
+
+# Block access to specific files (if needed)
+Disallow: /404.html
+Disallow: /README.md
+
+# Allow search engines to crawl specific assets (optional)
+Allow: /assets/
+
+# Add your sitemap for search engines
+Sitemap: https://twarga.tech/sitemap.xml
+
+# Special rules for specific search engine crawlers (optional)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# If you use other bots and need specific rules:
+User-agent: Yandex
+Allow: /
+
+# End of robots.txt
