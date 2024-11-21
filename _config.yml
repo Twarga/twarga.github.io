@@ -39,7 +39,10 @@ social:
     - https://x.com/Twarga_Dev
     - https://github.com/Twarga
     - https://www.linkedin.com/in/youness-touzani-762379259/
+plugins:
+  - jekyll-sitemap
 
+  
 # Site Verification Settings
 webmaster_verifications:
   google: # fill in your Google verification code
