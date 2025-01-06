@@ -131,4 +131,4 @@ Practice is key in cybersecurity. Use platforms like:
 
 Cybersecurity isn’t just a job; it’s a journey. Start with the basics, build core skills, and choose the path that excites you most. Whether you’re defending systems or testing them, the opportunities in cybersecurity are endless.
 
-Ready to start? [Download our detailed PDF roadmap]() and dive in. Your cybersecurity career begins today!
+Ready to start? [Download our detailed PDF roadmap](blob:https://github.com/82dfc71f-582b-46c0-9265-16fa0281de53) and dive in. Your cybersecurity career begins today!
